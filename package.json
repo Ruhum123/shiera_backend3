@@ -1,0 +1,12 @@
+{
+    "name": "my-esm-project",
+    "version": "1.0.0",
+    "description": "Example of using ESM in JavaScript",
+    "main": "appESM.js",
+    "type": "module", 
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+  }
